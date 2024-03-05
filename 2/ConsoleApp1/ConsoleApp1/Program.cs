@@ -24,7 +24,8 @@ namespace ConsoleApp1
             sortedKeys.Sort();
             string s = JsonConvert.SerializeObject(sortedKeys);
             Console.WriteLine(s);
-
+            string path = "../../../bobr.json";
+            File.WriteAllText(path, s);
 
 
         }

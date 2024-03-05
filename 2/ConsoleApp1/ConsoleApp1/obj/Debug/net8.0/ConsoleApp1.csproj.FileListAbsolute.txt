@@ -15,3 +15,4 @@ C:\Users\User\Desktop\program\лаби\2 семестр\лаба 1\2\ConsoleApp1
 C:\Users\User\Desktop\program\лаби\2 семестр\лаба 1\2\ConsoleApp1\ConsoleApp1\bin\Debug\net8.0\Newtonsoft.Json.dll
 C:\Users\User\Desktop\program\лаби\2 семестр\лаба 1\2\ConsoleApp1\ConsoleApp1\obj\Debug\net8.0\ConsoleApp1.csproj.AssemblyReference.cache
 C:\Users\User\Desktop\program\лаби\2 семестр\лаба 1\2\ConsoleApp1\ConsoleApp1\obj\Debug\net8.0\ConsoleA.CB28C8CC.Up2Date
+C:\Users\User\Desktop\program\лаби\2 семестр\лаба 1\2\ConsoleApp1\ConsoleApp1\obj\Debug\net8.0\ConsoleApp1.sourcelink.json
